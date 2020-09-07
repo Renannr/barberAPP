@@ -7,10 +7,11 @@
    * Styled Components;
    * Svg-transformer;
    * Stack Navigation;
-   * Bottom Tab Navigation;
+   * Bottom Tab Navigation (com tab custom);
    * AsyncStorage;
    * Requisição a API (usando fetch);
    * Manipulação de contexto (usando useContext).
+
 
 
 - [x] Exemplo de tela de login;
