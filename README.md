@@ -13,7 +13,7 @@
    * Manipulação de contexto (usando useContext).
 
 
-- Exemplo de tela de login;
-- Exemplo de app usando Styled Components;
-- Exemplo de Stack Navigation
-- Exemplo de Bottom Tab Navigation custom.
+- [x] Exemplo de tela de login;
+- [x] Exemplo de app usando Styled Components;
+- [x] Exemplo de Stack Navigation
+- [x] Exemplo de Bottom Tab Navigation custom.
