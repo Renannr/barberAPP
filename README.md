@@ -3,7 +3,7 @@
 # <img align="center" width="318" height="640" src="./gif_projeto_barberapp.gif">
 
 ### Este aplicativo é um exemplo de rotina de login e cadastro de usuário utilizando Styled Components
-   Foram utilizado:
+Foram utilizado:
    * Styled Components;
    * Svg-transformer;
    * Stack Navigation;
@@ -13,7 +13,7 @@
    * Manipulação de contexto (usando useContext).
 
 
-
+Serve como um breve exemplo de:
 - [x] Exemplo de tela de login;
 - [x] Exemplo de app usando Styled Components;
 - [x] Exemplo de Stack Navigation
