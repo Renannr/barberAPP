@@ -2,7 +2,7 @@
 
 # <img align="center" width="318" height="640" src="./gif_projeto_barberapp.gif">
 
-### Este aplicativo é um exemplo de rotina de login e cadastro de usuário utilizando Styled Components
+### Este aplicativo é um exemplo de rotina de login e cadastro de usuário
 Foram utilizado:
    * Styled Components;
    * Svg-transformer;
