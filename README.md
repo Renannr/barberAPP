@@ -3,7 +3,7 @@
 # <img align="center" width="318" height="640" src="./gif_projeto_barberapp.gif">
 
 ### Este aplicativo é um exemplo de rotina de login e cadastro de usuário
-Foram utilizado:
+Foram utilizados:
    * Styled Components;
    * Svg-transformer;
    * Stack Navigation;
